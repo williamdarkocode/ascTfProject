@@ -101,7 +101,7 @@ body {
 
 .card:hover {
     box-shadow: 0 25px 13px -7px rgba(155,89,182,1);
-    transform: translate(0px,-7px);
+    transform: translate(0px,-4px);
     cursor: pointer;
 }
 
